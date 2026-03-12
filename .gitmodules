@@ -1,3 +1,6 @@
 [submodule "mcp"]
 	path = mcp
 	url = git@github.com:Asher-/claude-skills-mcp.git
+[submodule "plans"]
+	path = plans
+	url = git@github.com:Asher-/claude-skills-writing-plans.git
