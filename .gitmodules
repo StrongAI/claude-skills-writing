@@ -1,9 +1,9 @@
 [submodule "mcp"]
 	path = mcp
-	url = git@github.com:Asher-/claude-skills-mcp.git
+	url = git@github.com:StrongAI/claude-skills-writing-mcp.git
 [submodule "plans"]
 	path = plans
-	url = git@github.com:Asher-/claude-skills-writing-plans.git
+	url = git@github.com:StrongAI/claude-skills-writing-plans.git
 [submodule "skills"]
 	path = skills
-	url = git@github.com:StrongAI/claude-skills-thinking-writing-skills.git
+	url = git@github.com:StrongAI/claude-skills-writing-skills.git
