@@ -7,3 +7,6 @@
 [submodule "skills"]
 	path = skills
 	url = git@github.com:StrongAI/claude-skills-writing-skills.git
+[submodule "literary_style"]
+	path = literary_style
+	url = git@github.com:StrongAI/claude-skills-writing-literary_style.git
