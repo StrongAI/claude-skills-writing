@@ -10,3 +10,6 @@
 [submodule "literary_style"]
 	path = literary_style
 	url = git@github.com:StrongAI/claude-skills-writing-literary_style.git
+[submodule "conceptual"]
+	path = conceptual
+	url = git@github.com:StrongAI/claude-skills-writing-conceptual.git
