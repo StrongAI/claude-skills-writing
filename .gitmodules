@@ -13,3 +13,6 @@
 [submodule "conceptual"]
 	path = conceptual
 	url = git@github.com:StrongAI/claude-skills-writing-conceptual.git
+[submodule "pull_request"]
+	path = pull_request
+	url = git@github.com:StrongAI/claude-skills-writing-pull_request.git
